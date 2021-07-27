@@ -1,0 +1,54 @@
+.create{
+  margin-top: 100px;
+  position: relative;
+  left: 22%
+}
+
+  .buttonCreate {
+    position: relative;
+    transition: .5s ease;
+    margin-top: 20px;
+    border: none;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .button{
+    position: relative;
+    left: -13%;
+  }
+
+  .buttonCreate:hover {
+    background-color: rgba(0, 0, 0, 0.575);
+  }
+
+  .selectMulti{
+    width: 52.1%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+
+  .select {
+    width: 50%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+
+  .teamY {
+    background-color: #ffdc16;
+  }
+
+  .teamR {
+    background-color: #ff1616;
+  }
+
+  .teamB {
+    background-color: #1639ff;
+  }
